@@ -29,7 +29,7 @@ Here are the key features included in this demo:
 
 Here are some screenshots showcasing the gameplay and features of the demo:
 
-![Gameplay Screenshot](link-to-screenshot)  
+![image](https://github.com/user-attachments/assets/1d9d076a-6d6c-44b4-9716-a70024975529)  
 *A view of the player ship navigating through space with enemies and asteroids in the field.*
 
 ![image](https://github.com/user-attachments/assets/3f104a64-bffd-4f1e-9a48-520e4ab3584a)
