@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/be24007a-5796-4dbf-8882-51df863994f0)![image](https://github.com/user-attachments/assets/86ad1314-9a37-4303-9cec-5ef4ba0e1be3)# 🚀 Space Shooter Demo
+# 🚀 Space Shooter Demo
 
 Welcome to the **Space Shooter Demo**! This is a small prototype I created to explore and learn how a 2D space shooter could work. It's a simple yet engaging exercise in game development, where I focused on core mechanics such as movement, enemy AI, and shooting.
 
